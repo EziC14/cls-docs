@@ -1,0 +1,11 @@
+site_name: 'Documentación Interna - Sistemas'
+site_description: 'Base de conocimiento y runbooks para el área de sistemas'
+repo_name: 'TU-ORG/docs-infra'
+nav:
+  - Home: index.md
+  - Speed:
+    - Vinculación de guías: speed/vinculacion_guias.md
+  - Plantillas:
+    - Runbook: templates/runbook_template.md
+theme:
+  name: material

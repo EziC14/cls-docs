@@ -11,6 +11,15 @@ nav:
   - Odoo:
       - Índice: odoo/index.md
   - Plantillas:
-      - Runbook: templates/runbook_template.md
+      - Runbook: templates_docs/runbook_template.md
+  - Contenido Protegido: contenido_protegido.md
 theme:
   name: material
+plugins:
+  - search
+  - glightbox
+  - include-markdown
+  - encryptcontent:
+      password_inventory:
+        secret: "TuContraseñaSegura"
+      placeholder: "Contenido protegido. Ingresa la contraseña para acceder."

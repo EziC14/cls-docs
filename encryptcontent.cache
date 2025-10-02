@@ -1,0 +1,5 @@
+kdf_iterations: 10000
+obfuscate: {}
+password:
+  "TuContrase\xF1aSegura": d50bd8738acc4e6af8568988e6a5a5bd98c8a5aab987f9de5a8554a5335980c6;f1041e724260560d448004d892edc80b;7bc2ffad0fe4f12f010fa8ca7dbc9893ca3d428cea0c9ec0f2ef217600fa1736
+userpass: {}

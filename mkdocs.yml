@@ -4,8 +4,13 @@ repo_name: 'TU-ORG/docs-infra'
 nav:
   - Home: index.md
   - Speed:
-    - Vinculación de guías: speed/vinculacion_guias.md
+      - Índice: speed/index.md
+      - Vinculación de guías: speed/vinculacion_guias.md
+  - Soporte:
+      - Índice: soporte/index.md
+  - Odoo:
+      - Índice: odoo/index.md
   - Plantillas:
-    - Runbook: templates/runbook_template.md
+      - Runbook: templates/runbook_template.md
 theme:
   name: material

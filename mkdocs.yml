@@ -8,6 +8,7 @@ nav:
       - Vinculación de guías: speed/vinculacion_guias.md
   - Soporte:
       - Índice: soporte/index.md
+      - Instalación de programas: soporte/instalacion_programas.md
   - Odoo:
       - Índice: odoo/index.md
   - Plantillas:

@@ -3,6 +3,9 @@ site_description: 'Base de conocimiento y runbooks para el área de sistemas'
 repo_name: 'TU-ORG/docs-infra'
 nav:
   - Home: index.md
+  - IBM:
+      - Índice: ibm/index.md
+      - Backup y Cambio de Cinta: ibm/backup_cambio_cinta.md
   - Speed:
       - Índice: speed/index.md
       - Vinculación de guías: speed/vinculacion_guias.md

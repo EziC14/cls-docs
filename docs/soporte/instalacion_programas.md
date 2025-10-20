@@ -147,6 +147,14 @@ Crear accesos directos de ambas al escritorio.
 
 ---
 
+### Aplicacion LOGISTI
+Las siguientes aplicaciones se encuentran en: `\\192.168.1.20\Aplicaciones\Speed400`
+- **LOGISTI7**
+
+Crear acceso directo al escritorio.
+
+---
+
 ## 8. Automatización FE (Facturación Electrónica)
 
 ### Instalación

@@ -14,7 +14,7 @@
 
 ## 2. Instalación de Java
 
-1. Navegar a `\\192.168.1.20\Emergentes\PROGRAMAS`
+1. Navegar a `\\192.168.1.20\\Emergentes\\PROGRAMAS`
 2. Instalar el archivo de Java
 
 ---
@@ -22,7 +22,7 @@
 ## 3. Instalación de IBM Access Client Solutions (ACS)
 
 ### IBM v1r1 (4)
-1. Buscar la carpeta: `IBM v1r1 (4)\Windows Application`
+1. Buscar la carpeta: `IBM v1r1 (4)\\Windows Application`
 2. Ejecutar: `install-acs-64_allusers`
 3. **Configuración:**
    - Aceptar todo durante la instalación
@@ -43,7 +43,7 @@
 3. **Aparecerá un mensaje de error** → Es normal, hacer clic en **Omitir**
 
 ### Cotización
-1. Entrar a: `Cotización\Aplicación`
+1. Entrar a: `Cotización\\Aplicación`
 2. Ejecutar `setup`
 3. Cuando aparezca ventana de **"Conflicto de versiones"** → seleccionar **"Sí a todo"**
 
@@ -53,7 +53,7 @@
 3. Cuando aparezca ventana de **"Conflicto de versiones"** → seleccionar **"Sí a todo"**
 
 ### Módulo de Consignación
-1. Entrar a: `Modulo de consignación\pqtModulo`
+1. Entrar a: `Modulo de consignación\\pqtModulo`
 2. Ejecutar `setup`
 3. Cuando aparezca ventana de **"Conflicto de versiones"** → seleccionar **"Sí a todo"**
 4. **Aparecerá un mensaje de error al final** → Es normal, hacer clic en **Omitir**
@@ -73,7 +73,7 @@
 3. Cuando aparezca ventana de **"Conflicto de versiones"** → seleccionar **"Sí a todo"**
 
 ### SPEED Advance
-1. Entrar a: `Speed Advance\Instaladores speed advance`
+1. Entrar a: `Speed Advance\\Instaladores speed advance`
 2. Instalar **DV** (para sistemas 32 bits)
 3. Ejecutar `setup`
 4. Cuando aparezca ventana de **"Conflicto de versiones"** → seleccionar **"Sí a todo"**
@@ -134,12 +134,12 @@
 
 ### Crear Accesos Directos
 1. **Preguntar al usuario** qué aplicaciones necesita
-2. Acceder a: `\\192.168.1.20\Aplicaciones`
+2. Acceder a: `\\192.168.1.20\\Aplicaciones`
 3. Buscar dentro de cada módulo o aplicación el archivo `.exe` principal
 4. Click derecho → **"Enviar a"** → **"Escritorio (crear acceso directo)"**
 
 ### Aplicaciones SPEED
-Las siguientes aplicaciones se encuentran en: `\\192.168.1.20\Aplicaciones\Speed Advance`
+Las siguientes aplicaciones se encuentran en: `\\192.168.1.20\\Aplicaciones\\Speed Advance`
 - **SPEEDADV**
 - **SPEEDREP**
 
@@ -148,7 +148,7 @@ Crear accesos directos de ambas al escritorio.
 ---
 
 ### Aplicacion LOGISTI
-Las siguientes aplicaciones se encuentran en: `\\192.168.1.20\Aplicaciones\Speed400`
+Las siguientes aplicaciones se encuentran en: `\\192.168.1.20\\Aplicaciones\\Speed400`
 - **LOGISTI7**
 
 Crear acceso directo al escritorio.
@@ -158,7 +158,7 @@ Crear acceso directo al escritorio.
 ## 8. Automatización FE (Facturación Electrónica)
 
 ### Instalación
-1. Navegar a: `\\192.168.1.20\Emergentes\Programas\Automatización FE`
+1. Navegar a: `\\192.168.1.20\\Emergentes\\Programas\\Automatización FE`
 2. Ejecutar `setup` para instalar
 
 ### Solución de Problemas con Antivirus
@@ -166,6 +166,20 @@ Crear acceso directo al escritorio.
   1. Desactivar temporalmente la **protección en tiempo real** del antivirus
   2. Completar la instalación
   3. Volver a activar el antivirus
+
+---
+
+## 9. Instalación de Office y Activación de Windows
+
+### Instalación de Office
+1. Conectar el USB **Ventoy**.
+2. Entrar a la carpeta **Programas**.
+3. Buscar la carpeta de **Office**.
+4. Ejecutar el archivo **`start`** para iniciar la instalación.
+
+### Activación de Windows
+- En el USB Ventoy también se encuentra un archivo **Excel** que contiene la **key para activar Windows**.
+- Abrir el Excel y usar la clave según la versión del sistema.
 
 ---
 
@@ -182,4 +196,3 @@ Crear acceso directo al escritorio.
 > - Cambiar credenciales predeterminadas en `192.168.1.20:5000`
 > - Mantener actualizado el antivirus
 
----

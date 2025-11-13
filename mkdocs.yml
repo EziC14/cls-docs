@@ -9,6 +9,7 @@ nav:
   - Speed:
       - Índice: speed/index.md
       - Vinculación de guías: speed/vinculacion_guias.md
+      - Cambio de moneda en OC: speed/cambio_moneda_oc.md
   - Soporte:
       - Índice: soporte/index.md
       - Instalación de programas: soporte/instalacion_programas.md

@@ -6,6 +6,7 @@ nav:
   - IBM:
       - Índice: ibm/index.md
       - Backup y Cambio de Cinta: ibm/backup_cambio_cinta.md
+      - Verifiacar Estado de Servidores: ibm/ordenar_trabajos_cpu.md
   - Speed:
       - Índice: speed/index.md
       - Vinculación de guías: speed/vinculacion_guias.md

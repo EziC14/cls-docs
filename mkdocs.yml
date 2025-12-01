@@ -15,6 +15,7 @@ nav:
       - Índice: soporte/index.md
       - Instalación de programas: soporte/instalacion_programas.md
       - Instalación de impresoras: soporte/guia_instalacion_impresoras.md
+      - Gestionar reglas de correo en Exchange: soporte/reglas_exchange.md
   - Odoo:
       - Índice: odoo/index.md
   - Plantillas:

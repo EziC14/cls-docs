@@ -30,4 +30,4 @@ plugins:
   - encryptcontent:
       password_inventory:
         secret: "TuContraseñaSegura"
-      placeholder: "Contenido protegido. Ingresa la contraseña para acceder."
+      placeholder: "Contenido protegido. Ingresa la contraseña para acceder." 
